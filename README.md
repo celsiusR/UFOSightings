@@ -6,7 +6,7 @@ There is a compilation of data containing UFO data including the Date seen, City
 
 Code and data is organized as:
 
-![Code-organization](C:\Rutgers\module-11\UFOs\static\css\images\Code-organization.PNG)
+![Code-organization](static/css/images/Code-organization.PNG)
 
 ## Results
 
@@ -14,13 +14,13 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 Once hosted, the UFO website will be available at ***https://<TBD/UFOs/index.html***. On initial access, the user will be provided with a title and short description with a perspective on UFO sightings
 
-![readme-header](C:\Rutgers\module-11\UFOs\static\css\images\readme-header.PNG)
+![readme-header](static/css/images/readme-header.PNG)
 
 
 
 In the second half of the page the listings of all the UFOs are displayed. On the left side filters are provided to the users to narrow down the search based on the filers criteria. The display is dynamic and results corresponding to the criteria specified are displayed immediately.
 
-## ![readme-lower-section](C:\Rutgers\module-11\UFOs\static\css\images\readme-lower-section.PNG)
+## ![readme-lower-section](static/css/images/readme-lower-section.PNG)
 
 
 
