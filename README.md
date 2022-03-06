@@ -42,10 +42,9 @@ The user has to first observe the results and then formulate the search strings.
 The user must be guided through the use of pull down selection menus and date pickers (calendar type widgets).
 
 ### Recommendations
-<br>
 1. The filter for "Enter Country" should have a "Country Based pull down menu". The user should be able to select the country(s) for the search parameter to the filter.
- <br>
+ 
 2. The filter for the Shaped should have a pull down "Shapes Available" menu. This should be assembled in the code itself so all the shapes of the UFO sightings should be available in this dynamic pull-down menu
-  <BR>
+  
 3. The filer for the dates should have a calendar widget or a collection of dates currently available in the UFO data set. It should be pre-compiled.
 
