@@ -10,7 +10,6 @@ Code and data is organized as:
 
 ## Results
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
 Once hosted, the UFO website will be available at ***https://<TBD/UFOs/index.html***. On initial access, the user will be provided with a title and short description with a perspective on UFO sightings
 
@@ -19,6 +18,10 @@ Once hosted, the UFO website will be available at ***https://<TBD/UFOs/index.htm
 
 
 In the second half of the page the listings of all the UFOs are displayed. On the left side filters are provided to the users to narrow down the search based on the filers criteria. The display is dynamic and results corresponding to the criteria specified are displayed immediately.
+Here is an example in using the date filter:
+a. Select the Exter Date input and type out "1/10/2010" and <Enter>. This display to the right will bring up those UFO listings on january 1 2010.
+b. Alternatively, one can use the "Enter City" input box and enter a city. This will bring up the data for the UFO sightings in that city.
+Note: Since the selection values are not precompiled, the user is advised to review the data the first time the page loads up to get an idea of the format and type of data avaialble to search or filter on.
 
 ## ![readme-lower-section](static/css/images/readme-lower-section.PNG)
 
