@@ -1,6 +1,5 @@
 ## Overview of the Project
 
-Explain the purpose of this analysis.
 
 There is a compilation of data containing UFO data including the Date seen, City, Country, Shape and Duration. Some of the observations on the type of UFO are also collated under the Comments section. This project provides users a web interface to look up the UFO data based on different selection criteria of the UFO sightings. It incorporates Javascript to pull in all the data available in JSON format and render it in an HTM format based on the selection criteria.
 
@@ -35,7 +34,6 @@ Note: Since the selection values are not precompiled, the user is advised to rev
 
 ## Summary
 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 ### Drawback
 
